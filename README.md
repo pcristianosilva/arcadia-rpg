@@ -1,16 +1,23 @@
 Arcadia-RPG GAME
 ===========
 
+
 Arcadia
 
 1	Equipe:
 
 Projeto Técnico: Cristiano Silva
+
 Programação: Cristiano Silva, Felipe Bagietto
+
 Designer: Cristiano Silva
+
 Homologação: Diego DMF, Cristiano Silva, Felipe Bagietto
+
 Documentação: Diego DMF
+
 Ambientação e História: Diego DMF
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
