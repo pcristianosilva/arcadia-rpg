@@ -3,7 +3,7 @@ Arcadia-RPG GAME
 
 Arcadia
 
-1.	Equipe:
+1	Equipe:
 
 Projeto Técnico: Cristiano Silva
 Programação: Cristiano Silva, Felipe Bagietto
@@ -14,7 +14,7 @@ Ambientação e História: Diego DMF
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-2.	Especificação:
+2	Especificação:
 
 2.1.  Objetivo do Projeto
 
@@ -35,20 +35,20 @@ O jogo será desenvolvido em uma categoria de jogo chamado de “text-based onli
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.  Homologação:
+3  Homologação:
 
 Será feira pelos próprios desenvolvedores e simpatizantes do tipo de jogo relacionado, o game após o lançamento ficará em beta-test em pelo menos 1 a 3 meses até o lançamento oficial.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-4.  Documentação:
+4  Documentação:
 
 Aguardar instruções no treinamento inicial para homologação.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-5. Detalhamento Técnico Site Principal:
+5 Detalhamento Técnico Site Principal:
 
 
 5.1.	Site Principal
@@ -84,7 +84,7 @@ Aguardar instruções no treinamento inicial para homologação.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-6. Detalhamento Gerais do Jogo:
+6 Detalhamento Gerais do Jogo:
 
 
 6.1.	Mundo / Ambiente / Época
