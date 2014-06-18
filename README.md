@@ -47,25 +47,42 @@ Aguardar instruções no treinamento inicial para homologação.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 5. Detalhamento Técnico Site Principal:
 
+
 5.1.	Site Principal
+
 5.2.	História
+
 5.3.	Manual de Ajuda
+
 5.4.	Cadastro
+
 5.5.	Estatísticas Gerais
+
 5.6.	Contato
+
 5.7.	Login
 
+
 5.1 – SITE PRINCIPAL – Contemplará informações genéricas sobre o jogo, e principais informações, noticias e updates feitas no mesmo.
+
 5.2 – HISTÓRIA – Contemplará a história do jogo, tempo e ambiente que se passa, informações complementares, tanto em texto quanto em imagem.
+
 5.3 – MANUAL DE AJUDA – Será um manual do tipo FAQ, será criando uma tabela, e a medida que necessário será inserido tópicos e informações, referente a utilização do mesmo e apresentado nesta página.
+
 5.4 – CADASTRO – Nesta página estará o formulário de cadastro de jogadores, os campos podem variar, nome, usuário, senha entre outras informações conforme a necessidade, é necessário também a utilização de captha por medidas de segurança e para evitar fraudes, não será permitido cadastro de dois e-mails iguais.
+
 5.5 – ESTATÍSTICAS GERAIS – Contemplará informações gerais sobre o jogo, ranking de players (assassinatos), ranking de level, ranking de mais rico, ranking de maior guerreiro lendário, de quests, informações genéricas, tudo que pode facilitar a vida e estimular o jogo e a competitividade.
+
 5.6 – CONTATO – Contemplará o formulário para contato com os desenvolvedores do jogo (Críticas, Dúvidas, Sugestões entre outros).
+
 5.7 – LOGIN – Contemplará o formulário para logar no jogo.
 
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 6. Detalhamento Gerais do Jogo:
 
@@ -92,5 +109,6 @@ Para se proteger, Asmaroth e Warmoth precisa de heróis — e eles existem em to
 6.4 Arcádia é uma terra de magos e criaturas mágicas. Membros de raças não-humanas como elfos, anões, halflings(hobits) e minotauros podem ser vistos pelas ruas.  Guerreiros em armaduras brilhantes levantam suas espadas em defesa de seus Reinados.  Os deuses responsáveis pela criação do mundo e das raças ainda estão presentes, oferecendo poderes para seus clérigos, paladinos, druidas e xamãs. Dragões ameaçam aldeias. Magos malignos ou insanos dedicam suas vidas a criar ou invocar monstros. Qualquer criatura pode viver em Mordor.
 
 6.5 Descrição do Mapa
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------	
